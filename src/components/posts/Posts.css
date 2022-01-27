@@ -1,0 +1,7 @@
+.postsFrame {
+    background: deepskyblue;
+    grid-area: b;
+    border: 1px solid #333333;
+    height: 50vh;
+    overflow-y: scroll;
+}

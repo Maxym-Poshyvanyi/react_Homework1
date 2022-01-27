@@ -1,0 +1,7 @@
+.commentsFrame {
+    background: cadetblue;
+    grid-area: c;
+    border: 1px solid #333333;
+    height: 50vh;
+    overflow-y: scroll;
+}
